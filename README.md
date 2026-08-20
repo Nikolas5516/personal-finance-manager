@@ -1,6 +1,12 @@
 # 💰 Budgeting App
 
-A full-stack budgeting application built with Spring Boot and Angular.
+A full-stack budgeting application built with Spring Boot and Angular. Developed as a team project during the 12-week Cloudflight engineering programme at Babeș-Bolyai University.
+
+## My Contribution
+
+I contributed as a backend developer in a team of 5, working across the full backend stack — Java, Spring Boot, PostgreSQL, Hibernate, Flyway migrations, and Spring Security — with the frontend built in Angular. Code quality was enforced through unit and integration testing and CI/CD pipelines via GitHub Actions, with the stack containerized via Docker for consistent deployment.
+
+The README below (setup and run instructions) was provided by our Cloudflight mentor as part of the programme materials.
 
 ---
 
